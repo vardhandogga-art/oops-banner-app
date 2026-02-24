@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OOPSBannerApp",
+            "request": "launch",
+            "mainClass": "OOPSBannerApp",
+            "projectName": "python_8677a529"
+        },
+        {
+            "type": "java",
+            "name": "uc2",
+            "request": "launch",
+            "mainClass": "uc2",
+            "projectName": "python_8677a529"
+        },
+        {
+            "type": "java",
             "name": "vardhan",
             "request": "launch",
             "mainClass": "vardhan",
